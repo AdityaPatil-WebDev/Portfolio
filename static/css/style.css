@@ -470,21 +470,18 @@ section {
     gap: 2rem;
   }
 }
-/* Ensures same padding for all sections */
 .section {
   padding: 4rem 1.5rem;
   max-width: 1000px;
   margin: auto;
 }
 
-/* Add smooth section fade-in animations */
 [data-aos] {
   opacity: 0;
   transition-property: opacity, transform;
   will-change: opacity, transform;
 }
 
-/* Common card styling for Education and Projects */
 .education-content,
 .project-card {
   background: #f9f9f9;
