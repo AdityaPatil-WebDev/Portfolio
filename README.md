@@ -19,5 +19,15 @@ CSS3
 JavaScript
 
 📸 Screenshots
-![Screenshot 2025-07-09 195242](https://github.com/user-attachments/assets/bd2aa3cc-3a14-4a40-9c22-bb109d56bd45)
+![Screenshot 2025-07-09 195050](https://github.com/user-attachments/assets/89a3c47d-0bb0-431f-8200-64b3fcb2c07d)
+![Screenshot 2025-07-09 195124](https://github.com/user-attachments/assets/7f5f4582-e9d4-4d4a-b4ee-57874912af82)
+![Screenshot 2025-07-09 195154](https://github.com/user-attachments/assets/5abc3eef-2c1a-40e4-8817-f91f1d99a0c4)
+![Screenshot 2025-07-09 195215](https://github.com/user-attachments/assets/f9607513-2a80-4b8a-8560-08157fefe117)
+![Screenshot 2025-07-09 195242](https://github.com/user-attachments/assets/314ebdb2-96da-45b5-8f76-99707f78c611)
+
+
+
+
+
+
 
